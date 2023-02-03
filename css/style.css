@@ -1097,6 +1097,7 @@ header .container .search-icon input {
   position: relative;
   left: 22px;
   margin-top: 20px;
+  max-width: 98%;
 }
 
 .pricing .container .content article div.price p.price span {
